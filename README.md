@@ -1,9 +1,11 @@
-[![Adriano Amaricci GitHub stats](https://github-readme-stats.vercel.app/api?username=aamaricci)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://github.com/aamaricci/ghbstats/blob/b2b3cc3ba6ff957a0f0b01c1751304d016d8976c/generated/overview.svg)
 
 ![](https://github.com/aamaricci/ghbstats/blob/b2b3cc3ba6ff957a0f0b01c1751304d016d8976c/generated/languages.svg)
 
 <!--
 **aamaricci/aamaricci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Adriano Amaricci GitHub stats](https://github-readme-stats.vercel.app/api?username=aamaricci)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
 
