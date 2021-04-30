@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- [codersrank-badge-img](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=aamaricci)
+- [codersrank-stats-img](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=aamaricci)
 -->
-[codersrank-badge-img](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=aamaricci)
-[codersrank-stats-img](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=aamaricci)
+
 
