@@ -64,10 +64,9 @@ I bridge the gap between theoretical physics and high-performance software engin
 
 ### 📫 Contact & Links
 * **Affiliation:** CNR-IOM / SISSA, Trieste.
-* **Publications:** [Google Scholar](https://scholar.google.com/citations?user=amaricci) (Optional: Replace with your link)
+* **Publications:** [Google Scholar](https://scholar.google.com/citations?user=amaricci)
 
 ---
-
 
 *“In the midst of complexity, find simplicity.”*
 
@@ -76,3 +75,21 @@ I bridge the gap between theoretical physics and high-performance software engin
 *“It’s not what you can do for 5 minutes. It’s what you can do for 5 minutes after 5 hours"*
 
 *“I prefer the struggle of the climb over the deception of the descent.”*
+
+*"On fait la science avec des faits, comme on fait une maison avec des pierres ; mais une accumulation de faits n'est pas plus une science qu'un tas de pierres n'est une maison."*
+
+*"Penetrare in se stessi e per ore non incontrare nessuno, – questo si deve poter raggiungere. Essere soli come s’era soli da bambini."*
+
+*"le cose sono come sono, non come vorremmo che fossero."*
+
+*"Tell me, I forget.
+Show me, I remember.
+Involve me, I understand."*
+
+*"The road of excess leads to the palace of wisdom; for we never know what is enough until we know what is more than enough."*
+
+*"Se piove mi bagno. Questo non vuol dire che ci sia un interplay tra me e l'acqua."*
+
+*"Qualsiasi cosa tu faccia sarà insignificante. Ma è molto importante che tu la faccia, perchè nessun altro la farà."*
+
+*"Se vuoi le risposte giuste, devi farti le domande giuste."*
