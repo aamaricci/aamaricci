@@ -27,8 +27,7 @@ Here are some ideas to get you started:
 
 **CNR-IOM, International School for Advanced Studies (SISSA) | Trieste, Italy**
 
-I am a theoretical physicist in **quantum many-body systems**, mostly interested in **electronic properties of quantum materials**, a rather fancy way to refer to **strongly correlated systems** and **(interacting) topological insulators**. My work focuses on developing and applying advanced computational methods to investigate complex quantum many-body problems, drawing conclusions about systems  
-not falling under the *conventional* one-body (a proxy for *weakly interacting*) description.
+I am a theoretical physicist in **quantum many-body systems**, mostly interested in **electronic properties of quantum materials**, a rather fancy way to refer to **strongly correlated systems** and **(interacting) topological insulators**. My work focuses on developing and applying advanced computational methods to investigate complex quantum many-body problems, drawing conclusions about systems not falling under the *conventional* one-body (a proxy for *weakly interacting*) description.
 
 
 ---
