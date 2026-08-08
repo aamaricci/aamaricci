@@ -23,19 +23,21 @@ Here are some ideas to get you started:
 
 # Adriano Amaricci
 
-👨‍💼Dad. 👨‍🏫 Physicist. 🏃‍♂️UltraRunner. I don't like🍺
+👨‍💼Dad. 👨‍🏫 Physicist. 🏃‍♂️UltraRunner. I don't like 🍺
 
 **CNR-IOM, International School for Advanced Studies (SISSA) | Trieste, Italy**
 
-I am a theoretical physicist in **quantum many-body systems**, mostly interested in **electronic properties of quantum materials**, a rather fancy way to refer to **strongly correlated systems** and **(interacting) topological insulators**. My work focuses on developing and applying advanced computational methods to investigate complex quantum many-body problems, drawing conclusions about systems not falling under the *conventional* one-body (a proxy for *weakly interacting*) description.
-
+I am a theoretical condensed-matter physicist, mostly interested in **quantum many-body systems** and **electronic properties of quantum materials**. 
 
 ---
 
 ### 🔬 Research Interests
 * **Strongly Correlated Systems:** Investigating Mott transitions, (unconventional) superconductivity or quantum magnetism.
+
 * **Topological Matter:** Exploring the interplay between electronic correlations and topological properties of electrons.
+
 * **Computational Physics:** Developing high-performance algorithms for quantum many-body systems, e.g. Dynamical Mean-Field Theory (DMFT), Exact Diagonalization (ED) or Density Matrix Renormalization Group (DMRG).
+
 * **Non-Equilibrium Dynamics:** Studying the temporal evolution of interacting systems under external drives or quenches.
 
 
@@ -45,7 +47,9 @@ I am a theoretical physicist in **quantum many-body systems**, mostly interested
 I bridge the gap between theoretical physics and high-performance software engineering, focusing on the development of robust, object-oriented scientific libraries.
 
 * **Fortran:** My primary language for high-performance computing. I advocate for and utilize modern Fortran (2003/2008/2018) paradigms, focusing on object-oriented structures to manage complexity in scientific codes.
+
 * **Python:** Extensively used for data post-processing, sophisticated visualization, and rapid prototyping of analysis pipelines.
+
 * **HPC & Algorithms:** Specialized in the development of scalable solvers and mathematical libraries for many-body physics.
 
 ---
@@ -67,7 +71,10 @@ I bridge the gap between theoretical physics and high-performance software engin
 
 ---
 
-*“In the midst of complexity, find simplicity.”*
+*"La differenza tra bufalo e locomotiva salta all'occhio.  
+La locomotiva ha la strada segnata  
+mentre il bufalo può scartare di lato... e cadere.  
+Questo decise la sorte del bufalo..."*
 
 *"Not all those who wanders are lost."*
 
@@ -77,18 +84,6 @@ I bridge the gap between theoretical physics and high-performance software engin
 
 *"On fait la science avec des faits, comme on fait une maison avec des pierres ; mais une accumulation de faits n'est pas plus une science qu'un tas de pierres n'est une maison."*
 
-*"Penetrare in se stessi e per ore non incontrare nessuno, – questo si deve poter raggiungere. Essere soli come s’era soli da bambini."*
-
-*"le cose sono come sono, non come vorremmo che fossero."*
-
-*"Tell me, I forget.
-Show me, I remember.
-Involve me, I understand."*
-
 *"The road of excess leads to the palace of wisdom; for we never know what is enough until we know what is more than enough."*
-
-*"Se piove mi bagno. Questo non vuol dire che ci sia un interplay tra me e l'acqua."*
-
-*"Qualsiasi cosa tu faccia sarà insignificante. Ma è molto importante che tu la faccia, perchè nessun altro la farà."*
 
 *"Se vuoi le risposte giuste, devi farti le domande giuste."*
